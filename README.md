@@ -2,6 +2,7 @@
 ## Task Management Website
 
 ## Live Link
+https://task-management-web-bizdateup.netlify.app/
 
 ## Project Info
 
